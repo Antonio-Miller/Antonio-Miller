@@ -2,7 +2,7 @@
 
 Informatics and Computing Engineering student at **FEUP – University of Porto** (L.EIC, expected graduation 2027), based in Porto, Portugal.
 
-I'm most interested in **interaction and multimedia**: computer graphics, interfaces and interactive experiences. My course projects cover web, mobile, graphics, AI and systems programming. Outside of code I play transverse flute, completed the 8th grade at the Conservatório de Música do Porto, and played in its jazz orchestra.
+My course projects cover web, mobile, computer graphics, AI and systems programming. Outside of code I play transverse flute, completed the 8th grade at the Conservatório de Música do Porto, and played in its jazz orchestra.
 
 🔎 **Looking for a curricular internship** from February to July 2027.
 
